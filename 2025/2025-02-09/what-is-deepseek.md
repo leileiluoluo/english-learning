@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=S2yVBsfrW_o
 
 We're starting today with a new artificial intelligence model that's disrupting the technology industry.
 
-A powerful and efficent AI model developed by a Chinese startup company called DeepSeek is proving it can nearly match the capabilities of its more famous US rivals like OpenAI's GTP4, Meta's Llama and Google's Genmini.
+A powerful and efficent AI model developed by a Chinese startup company called DeepSeek is proving it can nearly match the capabilities of its more famous US rivals like OpenAI's GTP4, Meta's Llama and Google's Gemini.
 
 And it's doing it all at a fraction of the cost.
 
