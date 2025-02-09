@@ -12,7 +12,7 @@ And it's doing it all at a fraction of the cost.
 
 The company says it's spent just 5.6 million dollars powering its base AI model called R1 while its US rivals spent hundreds of millions if not billions of dollars on powering their AI technologies.
 
-What's also raising eyebrows is that the US has restricted the supply of supercharged computer chips that power AI to China meaning DeepSeek has supposedly able to archieve this at a lowcost model on less capable AI chips.
+What's also raising eyebrows is that the US has restricted the supply of supercharged computer chips that power AI to China meaning DeepSeek has supposedly able to achieve this at a low cost model on less capable AI chips.
 
 AI is a power hungry cost intensive technology.
 
